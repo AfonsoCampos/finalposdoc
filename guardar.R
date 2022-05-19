@@ -28,27 +28,44 @@ ggplotly(p1_artigos) |>
          paper_bgcolor = "rgba(0, 0, 0, 0)",
          fig_bgcolor   = "rgba(0, 0, 0, 0)")
 
-```
+# Paricipação em Bancas  ----------------------------------------------------------------------
 
-:::
+
+bancas_data <- data.frame(Tipo = c("TCC", "Dissertação", "Tese"), Numero = c(11,4, 6))
+bancas_data$Tipo <- factor(bancas_data$Tipo, levels = c("TCC", "Dissertação", "Tese"))
+
+p_bancas <- 
+bancas_data |> 
+  ggplot(aes(Tipo, Numero, fill = Tipo))+
+  geom_bar(stat= "identity")+
+  ylab("Número de Participações")+
+  theme_classic()+
+  scale_fill_manual(values = c("#49B265", "#1F5F5B", "#062315")) +
+  geom_text(aes(label= Numero), vjust=1.6, color="white", size=8)+
+  ylab(NULL)+
+  xlab(NULL)+
+  ggtitle("Número de Paticipações em Bancas (2017-2022)")+
+  theme(axis.text.y=element_blank(),  #remove y axis labels
+         axis.ticks.y=element_blank(),  #remove y axis ticks
+        axis.ticks.x=element_blank(), 
+        axis.line = element_blank(), 
+        legend.position = "none",
+        axis.text.x = element_text(size = 15),
+        plot.title = element_text(hjust = 0.5, size = 18),
+        panel.background = element_rect(fill = "transparent"), # bg of the panel
+        plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+        panel.grid.major = element_blank(), # get rid of major grid
+        panel.grid.minor = element_blank(), # get rid of minor grid
+        legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+        legend.box.background = element_rect(fill = "transparent"), # get rid of legend panel bg
+        legend.key = element_rect(fill = "transparent", colour = NA) # get rid of key legend fill, and of the surrounding
+        ) 
   
-  ### Artigos|Qualis
-  ::: {.fragment .fade-up}
-```{r}
-#| echo: false
-
-# GMR A2 ... 2
-# SUGAR TECH ...B1 ..1
-# CIENCIA RURAL ... B1 1
-# EUPHITYCA ... A2 1
-# idesia Arica .. B1 1
-# CIÊNCIAS AGRÁRIAS I
-qualis_data <- data.frame(Qualis = c("A2", "B1"), Num = c(3,3))
-
-```
+ggsave(plot = p_bancas, file = "images/bancas.png", 
+       type = "cairo-png",  bg = "transparent",
+       width = 20, height = 15, units = "cm", dpi = 800)
 
 
 ### Livros
 
-:::
   

@@ -157,8 +157,9 @@ Curitiba, PR (2018-2020)
 ## Formação de Recursos Humanos {background-image="images/fundo_Slides.jpg"} 
 
 - Participação em Bancas  
-
+![](images/bancas.png){.absolute  bottom="0" right="50" width="650" height=400"}
 - Coorientação 
+
 
 ## Dashboards {background-image="images/fundo_Slides.jpg"}
 
@@ -179,9 +180,8 @@ Curitiba, PR (2018-2020)
 
 library(rio)
 library(vistime)
-library(tidyverse)
 library(highcharter)
-
+library(tidyverse)
 dados <- rio::import("CronogramaFinal.xlsx")
 
 dados |> 
