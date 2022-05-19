@@ -34,7 +34,7 @@ Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
 ### O Início
 
 ::: {.fragment .fade-up}
-Campos dos Goytacazes 
+Campos dos Goytacazes, RJ (1986-2004)
 :::
 
 ![](images/fotoagro.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="420" height="500"}
@@ -61,7 +61,7 @@ Segundo o depoimento do Engenheiro Agrônomo Rui Torres Pinto, Chefe da Inspetor
 ### Graduação 
 
 ::: {.fragment .fade-up}
-CCA|UFPB (2006-2010)
+Areia, PB - CCA|UFPB (2006-2010)
 :::
 
 ::: {.fragment .fade-up}
@@ -75,35 +75,35 @@ Monitoria Genética
 ### Mestrado  
 
 ::: {.fragment .fade-up}
-UFV (2011-2012)
+Viçosa, MG - UFV (2011-2012)
 :::
 
 ::: {.fragment .fade-up}
-CECA-Oratórios
+Oratórios, MG - CECA
 :::
 
 ### Doutorado
 
 ::: {.fragment .fade-up}
-UFV (2012-2017)
+Viçosa, MG - UFV (2012-2017)
 :::
 
 ::: {.fragment .fade-up}
-Experimento - UFPR (2015)
+Paranavaí, PR - UFPR (2015)
 :::
 
 ### Pós-doutorado
 
 ::: {.fragment .fade-up}
-UFPR (2017-2022)
+Curitiba, PR - UFPR (2017-2022)
 :::
 
 ::: {.fragment .fade-up}
-Paranavaí
+Paranavaí, PR (2017-2018)
 :::
 
 ::: {.fragment .fade-up}
-Curitiba
+Curitiba, PR (2018-2020)
 :::
 
 :::
@@ -146,12 +146,18 @@ Curitiba
 ## Participação em Simpósios {background-image="images/fundo_Slides.jpg"}
 
 ## Revisor de Periodicos  {background-image="images/fundo_Slides.jpg"}
+- CBAB
+- BioFix
+- Scientifc Reports
 
 ## Divulgação Científica  {background-image="images/fundo_Slides.jpg"}
+- Artigo Jornal da cana 
+- Site RIDESA
 
-## Participação em Bancas  {background-image="images/fundo_Slides.jpg"}
+## Formação de Recursos Humanos {background-image="images/fundo_Slides.jpg"} 
+- Participação em Bancas  
 
-## Coorientação  {background-image="images/fundo_Slides.jpg"}
+- Coorientação 
 
 ## Dashboards {background-image="images/fundo_Slides.jpg"}
 
@@ -159,7 +165,7 @@ Curitiba
 
 ## Capacitação  {background-image="images/fundo_Slides.jpg"}
 
-## Cronograma {background-image="images/fundo_Slides.jpg"}
+## Cronograma {background-image="images/fundo_Slides.jpg"}0
 
 ```{r}
 #| echo: false
