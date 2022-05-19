@@ -160,11 +160,11 @@ Curitiba, PR (2018-2020)
 - Coorientação 
 
 ## Dashboards {background-image="images/fundo_Slides.jpg"}
-
+- Parte de power bi
 ## Applicativos {background-image="images/fundo_Slides.jpg"}
-
+- A parte de R 
 ## Capacitação  {background-image="images/fundo_Slides.jpg"}
-
+-cursos feitos
 ## Cronograma {background-image="images/fundo_Slides.jpg"}0
 
 ```{r}
