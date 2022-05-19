@@ -63,30 +63,55 @@ Segundo o depoimento do Engenheiro Agrônomo Rui Torres Pinto, Chefe da Inspetor
 ::: {.fragment .fade-up}
 Areia, PB - CCA|UFPB (2006-2010)
 :::
+![](images/ccaufpb.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
+
+::: {.fragment .fade-up}
+Orientadores
+:::
+![](images/mailson_eliza.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="600" height="500"}
 
 ::: {.fragment .fade-up}
 Laboratório de Biotecnologia Vegetal
 :::
+![](images/tcc.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
 
 ::: {.fragment .fade-up}
 Monitoria Genética
 :::
+![](images/livrogene.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
+
+::: {.fragment .fade-up}
+Cana-de-açúcar
+:::
+![](images/anocana.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
 
 ### Mestrado  
 
 ::: {.fragment .fade-up}
 Viçosa, MG - UFV (2011-2012)
 :::
+![](images/ufvlago.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="650" height="300"}
+
+::: {.fragment .fade-up}
+Orientadores
+:::
+![](images/orimes.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="450" height="300"}
 
 ::: {.fragment .fade-up}
 Oratórios, MG - CECA
 :::
+![](images/foto_mestrado.jpg){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="600" height="400"}
 
 ### Doutorado
 
 ::: {.fragment .fade-up}
 Viçosa, MG - UFV (2012-2017)
 :::
+
+::: {.fragment .fade-up}
+Orientadores
+:::
+![](images/oridoutorado.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="450" height="500"}
 
 ::: {.fragment .fade-up}
 Paranavaí, PR - UFPR (2015)
@@ -97,6 +122,7 @@ Paranavaí, PR - UFPR (2015)
 ::: {.fragment .fade-up}
 Curitiba, PR - UFPR (2017-2022)
 :::
+![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="550" height="500"}
 
 ::: {.fragment .fade-up}
 Paranavaí, PR (2017-2018)
@@ -105,6 +131,7 @@ Paranavaí, PR (2017-2018)
 ::: {.fragment .fade-up}
 Curitiba, PR (2018-2020)
 :::
+![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="500"}
 
 :::
 
