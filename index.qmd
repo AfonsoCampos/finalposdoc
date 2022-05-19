@@ -1,0 +1,189 @@
+---
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+# {background-image="images/fundo_Slides.jpg"}
+::: {style="text-align: center; margin-top:0em"}
+**Universidade Federal do Paraná**
+:::
+::: {style="text-align: center; margin-top: -0.5em"}
+**Centro de Ciências Agrárias** 
+:::
+::: {style="text-align: center; font-size: 60px; color: #276709; margin-top: 2.5em"}
+**Resultados Projeto de Pós-Doutorado**
+:::
+::: {style="text-align: left;font-size: 40px; margin-top: 3em" }
+Pós-Doutorando: Dr. Amaro Afonso Campos de Azeredo
+:::
+::: {style="text-align: left;font-size: 40px; margin-top: -0.5em" }
+Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
+:::
+::: {style="text-align: Center;font-size: 30px; margin-top: 3em" }
+**Maio de 2022**
+:::
+
+## Trajetória {.smaller  transition="concave" background-image="images/fundo_Slides.jpg"}
+
+::: panel-tabset
+### O Início
+
+::: {.fragment .fade-up}
+Campos dos Goytacazes 
+:::
+
+![](images/fotoagro.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="420" height="500"}
+
+::: {.fragment .fade-up}
+Primeira Usina Particular
+:::
+![](images/usilimaoF.png){.absolute .fragment .fade-in-then-out  bottom="0" left="0" width="700" height="350"}
+
+::: {.fragment .fade-up}
+Frederico de Menezes Veiga
+:::
+![](images/frederico.png){.absolute .fragment  bottom="-2.5" right="0" width="600" height="500"}
+
+:::{.notes}
+
+Nos anos 1950, o pesquisador Frederico de Menezes Veiga desenvolveu uma nova variedade de cana-de-açúcar, a CB 4176. Mais produtiva que as tradicionais, a cana turbinou as lavouras paulistas. Garantiu colheita extra de mais de dez milhões de toneladas anuais, nas safras de 1958 a 1962.
+
+A grande contribuição de Frederico de Menezes Veiga foi desenvolver pesquisas para o aumento dos índices de produtividade da cana-de-açúcar em diferentes regiões do País, que abriram o caminho para a ascensão do Brasil à posição de maior produtor mundial e grande exportador de açúcar. 
+
+Segundo o depoimento do Engenheiro Agrônomo Rui Torres Pinto, Chefe da Inspetoria do antigo Instituto do Açúcar e do Álcool, (IAA), nos Estados do Rio de Janeiro e Espírito Santo: "O Brasil deve a Frederico de Menezes Veiga, milhões de sacas de açúcar que anualmente exporta e que corresponde ao rendimento adicional em razão das variedades por ele criadas em relação às anteriormente cultivadas".
+:::
+
+### Graduação 
+
+::: {.fragment .fade-up}
+CCA|UFPB (2006-2010)
+:::
+
+::: {.fragment .fade-up}
+Laboratório de Biotecnologia Vegetal
+:::
+
+::: {.fragment .fade-up}
+Monitoria Genética
+:::
+
+### Mestrado  
+
+::: {.fragment .fade-up}
+UFV (2011-2012)
+:::
+
+::: {.fragment .fade-up}
+CECA-Oratórios
+:::
+
+### Doutorado
+
+::: {.fragment .fade-up}
+UFV (2012-2017)
+:::
+
+::: {.fragment .fade-up}
+Experimento - UFPR (2015)
+:::
+
+### Pós-doutorado
+
+::: {.fragment .fade-up}
+UFPR (2017-2022)
+:::
+
+::: {.fragment .fade-up}
+Paranavaí
+:::
+
+::: {.fragment .fade-up}
+Curitiba
+:::
+
+:::
+
+## Publicações {.smaller  transition="concave" background-image="images/fundo_Slides.jpg"}
+
+::: panel-tabset
+
+### Artigos
+
+::: {.fragment .highlight-green}
+**2017 (1)**
+:::
+![](images/A1.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+
+::: {.fragment .highlight-green}
+**2020 (3)**
+:::
+![](images/A2.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+![](images/A3.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+
+![](images/A4.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+
+::: {.fragment .highlight-green}
+**2021 (1)**
+:::
+![](images/A5.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+
+::: {.fragment .highlight-green}
+**2022 (1)**
+:::
+![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
+
+### Livros
+
+### Divulgação Científica
+
+:::
+
+## Participação em Simpósios {background-image="images/fundo_Slides.jpg"}
+
+## Revisor de Periodicos  {background-image="images/fundo_Slides.jpg"}
+
+## Divulgação Científica  {background-image="images/fundo_Slides.jpg"}
+
+## Participação em Bancas  {background-image="images/fundo_Slides.jpg"}
+
+## Coorientação  {background-image="images/fundo_Slides.jpg"}
+
+## Dashboards {background-image="images/fundo_Slides.jpg"}
+
+## Applicativos {background-image="images/fundo_Slides.jpg"}
+
+## Capacitação  {background-image="images/fundo_Slides.jpg"}
+
+## Cronograma {background-image="images/fundo_Slides.jpg"}
+
+```{r}
+#| echo: false
+
+library(rio)
+library(vistime)
+library(tidyverse)
+library(highcharter)
+
+dados <- rio::import("CronogramaFinal.xlsx")
+
+dados |> 
+  rename(Position = Position...1, Name = Position...2, start = Start, end = End) |> 
+  hc_vistime( 
+           col.event = "Position", 
+           col.group = "Name", 
+           title = "Cronograma de Atividades Desenvolvidas") |>  
+  hc_size(width = 1000, height = 600) 
+
+  
+
+```
+## Conclusões  {background-image="images/fundo_Slides.jpg"}
+
+## Obrigado {background-image="images/fundo_Slides.jpg"}
+
+
