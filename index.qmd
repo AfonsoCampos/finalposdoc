@@ -28,6 +28,14 @@ Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
 **Maio de 2022**
 :::
 
+# {background-image="images/fundo_invertido.jpg"}
+::: {style="text-align: center; font-size: 60px; color: #ffffff; margin-top: 0em"}
+**TRAGETÓRIA**
+:::
+::: {style="text-align: center; font-size: 40px; color: #ffffff; margin-top: 0em"}
+**A cana-de-açúcar sempre presente**
+:::
+
 ## Trajetória {.smaller  transition="concave" background-image="images/fundo_Slides.jpg"}
 
 ::: panel-tabset
@@ -100,7 +108,7 @@ Orientadores
 ::: {.fragment .fade-up}
 Oratórios, MG - CECA
 :::
-![](images/foto_mestrado.jpg){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="600" height="400"}
+![](images/foto_mestrado.jpg){.absolute .fragment .fade-in-then-out  top="150" right=0 width="600" height="400"}
 
 ### Doutorado
 
@@ -116,22 +124,29 @@ Orientadores
 ::: {.fragment .fade-up}
 Paranavaí, PR - UFPR (2015)
 :::
+![](images/pvai2015.jpg){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="400"}
 
 ### Pós-doutorado
 
 ::: {.fragment .fade-up}
 Curitiba, PR - UFPR (2017-2022)
 :::
-![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="550" height="500"}
+![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="550" height="400"}
+
+::: {.fragment .fade-up}
+Supervisor
+:::
+![](images/ricardo.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="400" height="175"}
+
 
 ::: {.fragment .fade-up}
 Paranavaí, PR (2017-2018)
 :::
 
 ::: {.fragment .fade-up}
-Curitiba, PR (2018-2020)
+Departamento de Fitotecnia (2018-2020)
 :::
-![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="500"}
+![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="400"}
 
 :::
 
@@ -165,21 +180,29 @@ Curitiba, PR (2018-2020)
 ![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ### Livros
+![](images/livrospubli.png){.absolute  .fade-in-then-out  top="150" right=300 width="500" height="350"}
 
 ### Divulgação Científica
 
+::: {.fragment .fade-up}
+Matéria Jornal Cana
 :::
+![](images/jornalcana.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
+![](images/top dez.gif){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
 
-## Participação em Simpósios {background-image="images/fundo_Slides.jpg"}
+
+::: {.fragment .fade-up}
+Site RIDESA|UFPR
+:::
+![](images/siteridesa.png){.absolute .fragment .fade-in-then-out   top="150" right=0 width="400" height="500"}
+
+
+:::
 
 ## Revisor de Periodicos  {background-image="images/fundo_Slides.jpg"}
 - CBAB
 - BioFix
-- Scientifc Reports
 
-## Divulgação Científica  {background-image="images/fundo_Slides.jpg"}
-- Artigo Jornal da cana 
-- Site RIDESA
 
 ## Formação de Recursos Humanos {background-image="images/fundo_Slides.jpg"} 
 
@@ -190,7 +213,18 @@ Curitiba, PR (2018-2020)
 
 ## Dashboards {background-image="images/fundo_Slides.jpg"}
 
-- Parte de power bi
+::: {.fragment .fade-up}
+Microsoft Power BI
+:::
+![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out   top="150" right=0 width=512" height="400"}
+
+::: {.fragment .fade-up}
+Dashboard 12 gráficos e  1 filtro
+:::
+
+::: {.fragment .fade-up}
+Foram desenvolvidos 
+:::
 
 ## Applicativos {background-image="images/fundo_Slides.jpg"}
 
@@ -198,7 +232,7 @@ Curitiba, PR (2018-2020)
 
 ## Capacitação  {background-image="images/fundo_Slides.jpg"}
 
--cursos feitos
+![](images/capaci.gif){.absolute .fragment .fade-in-then-out  top="150" right=150 width="700" height="400"}
 
 ## Cronograma {background-image="images/fundo_Slides.jpg"}
 
