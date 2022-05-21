@@ -60,7 +60,7 @@ bancas_data |>
         legend.box.background = element_rect(fill = "transparent"), # get rid of legend panel bg
         legend.key = element_rect(fill = "transparent", colour = NA) # get rid of key legend fill, and of the surrounding
         ) 
-  
+p_bancas  
 ggsave(plot = p_bancas, file = "images/bancas.png", 
        type = "cairo-png",  bg = "transparent",
        width = 20, height = 15, units = "cm", dpi = 800)
