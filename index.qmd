@@ -8,7 +8,7 @@ format:
     css: styles.css
 ---
 
-# {background-image="images/fundo_Slides.jpg"}
+# {background-image="images/fundo_Slides1.jpg"}
 ::: {style="text-align: center; margin-top:0em"}
 **Universidade Federal do Paraná**
 :::
@@ -36,7 +36,7 @@ Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
 **A cana-de-açúcar sempre presente**
 :::
 
-## Trajetória {.smaller  transition="concave" background-image="images/fundo_Slides.jpg"}
+## Trajetória {.smaller  transition="concave" background-image="images/fundo_Slides1.jpg"}
 
 ::: panel-tabset
 ### O Início
@@ -131,7 +131,7 @@ Paranavaí, PR - UFPR (2015)
 ::: {.fragment .fade-up}
 Curitiba, PR - UFPR (2017-2022)
 :::
-![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="550" height="400"}
+![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="550" height="350"}
 
 ::: {.fragment .fade-up}
 Supervisor
@@ -146,11 +146,20 @@ Paranavaí, PR (2017-2018)
 ::: {.fragment .fade-up}
 Departamento de Fitotecnia (2018-2020)
 :::
-![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="400"}
+![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  top=150 right=0 width="500" height="400"}
 
 :::
 
-## Publicações {.smaller  transition="concave" background-image="images/fundo_Slides.jpg"}
+# {background-image="images/fundo_invertido.jpg"}
+::: {style="text-align: center; font-size: 60px; color: #ffffff; margin-top: 0em"}
+**Resultados**
+:::
+::: {style="text-align: center; font-size: 40px; color: #ffffff; margin-top: 0em"}
+**Frutos do trabalho em equipe**
+:::
+
+
+## Publicações {.smaller  transition="concave" background-image="images/fundo_Slides1.jpg"}
 
 ::: panel-tabset
 
@@ -179,6 +188,10 @@ Departamento de Fitotecnia (2018-2020)
 :::
 ![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
+### Revisor de Periodicos  
+- CBAB
+- BioFix
+
 ### Livros
 ![](images/livrospubli.png){.absolute  .fade-in-then-out  top="150" right=300 width="500" height="350"}
 
@@ -196,22 +209,24 @@ Site RIDESA|UFPR
 :::
 ![](images/siteridesa.png){.absolute .fragment .fade-in-then-out   top="150" right=0 width="400" height="500"}
 
-
 :::
 
-## Revisor de Periodicos  {background-image="images/fundo_Slides.jpg"}
-- CBAB
-- BioFix
+## Participações {background-image="images/fundo_Slides1.jpg"} 
 
-
-## Formação de Recursos Humanos {background-image="images/fundo_Slides.jpg"} 
-
-- Participação em Bancas  
+-  Bancas  
 ![](images/bancas.png){.absolute  bottom="0" right="50" width="650" height=400"}
 - Coorientação 
 
 
-## Dashboards {background-image="images/fundo_Slides.jpg"}
+# {background-image="images/fundo_invertido.jpg"}
+::: {style="text-align: center; font-size: 60px; color: #ffffff; margin-top: 0em"}
+**Covid-19**
+:::
+::: {style="text-align: center; font-size: 40px; color: #ffffff; margin-top: 0em"}
+**Banco de Dados**
+:::
+
+## Dashboards {background-image="images/fundo_Slides1.jpg"}
 
 ::: {.fragment .fade-up}
 Microsoft Power BI
@@ -226,15 +241,15 @@ Dashboard 12 gráficos e  1 filtro
 Foram desenvolvidos 
 :::
 
-## Applicativos {background-image="images/fundo_Slides.jpg"}
+## Applicativos {background-image="images/fundo_Slides1.jpg"}
 
 - A parte de R 
 
-## Capacitação  {background-image="images/fundo_Slides.jpg"}
+## Capacitação  {background-image="images/fundo_Slides1.jpg"}
 
 ![](images/capaci.gif){.absolute .fragment .fade-in-then-out  top="150" right=150 width="700" height="400"}
 
-## Cronograma {background-image="images/fundo_Slides.jpg"}
+## Cronograma {background-image="images/fundo_Slides1.jpg"}
 
 ```{r}
 #| echo: false
@@ -256,8 +271,16 @@ dados |>
   
 
 ```
-## Conclusões  {background-image="images/fundo_Slides.jpg"}
+## Conclusões  {background-image="images/fundo_Slides1.jpg"}
+- 6 Artigos Publicados 
+- 2 livros 
+- 21 Bancas
+- x dashboars 
+- 1 aplicativo
 
-## Obrigado {background-image="images/fundo_Slides.jpg"}
+## {background-image="images/obrigado.jpg"}
+::: {style="text-align: center; font-size: 80px; color: #ffffff"}
+**Obrigado !**
+:::
 
 
