@@ -15,8 +15,8 @@ format:
 ::: {style="text-align: center; margin-top: -0.5em"}
 **Centro de Ciências Agrárias** 
 :::
-::: {style="text-align: center; font-size: 60px; color: #276709; margin-top: 2.5em"}
-**Resultados Projeto de Pós-Doutorado**
+::: {style="text-align: center; font-size: 55px; color: #276709; margin-top: 2.5em"}
+**Resultados Obtidos (2017-2022)**
 :::
 ::: {style="text-align: left;font-size: 40px; margin-top: 3em" }
 Pós-Doutorando: Dr. Amaro Afonso Campos de Azeredo
@@ -188,9 +188,8 @@ Departamento de Fitotecnia (2018-2020)
 :::
 ![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
-### Revisor de Periodicos  
-- CBAB
-- BioFix
+### Revisor 
+![](images/revisor.png){.absolute .fragment .fade-in-then-out top="150" left="50" width="250" height="300"}
 
 ### Livros
 ![](images/livrospubli.png){.absolute  .fade-in-then-out  top="150" right=300 width="500" height="350"}
@@ -212,10 +211,16 @@ Site RIDESA|UFPR
 :::
 
 ## Participações {background-image="images/fundo_Slides1.jpg"} 
+::: {.fragment .fade-up}
+Bancas
+:::
 
--  Bancas  
-![](images/bancas.png){.absolute  bottom="0" right="50" width="650" height=400"}
-- Coorientação 
+![](images/bancas.png){.absolute .fragment .fade-in-then-out  bottom="0" right="50" width="650" height=400"}
+
+::: {.fragment .fade-up}
+Coorientação 
+:::
+![](images/guilherme.png){.absolute .fragment .fade-in-then-out  top="150" right="50" width="400" height=250"}
 
 
 # {background-image="images/fundo_invertido.jpg"}
@@ -233,17 +238,26 @@ Microsoft Power BI
 :::
 ![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out   top="150" right=0 width=512" height="400"}
 
-::: {.fragment .fade-up}
-Dashboard 12 gráficos e  1 filtro
-:::
 
 ::: {.fragment .fade-up}
-Foram desenvolvidos 
+Gráficos (12)
+:::
+![](images/dashfeed.png){.absolute .fragment .fade-in-then-out   top="100" right=0 width=512" height="400"}
+
+::: {.fragment .fade-up}
+Dashboards (9) 
 :::
 
-## Applicativos {background-image="images/fundo_Slides1.jpg"}
+## Applicativo {background-image="images/fundo_Slides1.jpg"}
 
-- A parte de R 
+::: {.fragment .fade-up .fade-in-then-out}
+- Experimento DBA  
+- Genótipos (222) | (37)
+- Padrões por bloco (3)
+- Blocos (6)  
+:::
+ 
+![](images/rapp.gif){.absolute .fragment .fade-in-then-out   top="100" right=0 width=512" height="400"}
 
 ## Capacitação  {background-image="images/fundo_Slides1.jpg"}
 
@@ -271,12 +285,33 @@ dados |>
   
 
 ```
+
 ## Conclusões  {background-image="images/fundo_Slides1.jpg"}
-- 6 Artigos Publicados 
-- 2 livros 
-- 21 Bancas
-- x dashboars 
-- 1 aplicativo
+
+::: {.fragment .fade-up .fade-in}
+Artigos Publicados (6) 
+:::
+
+::: {.fragment .fade-up .fade-in}
+livros (2) 
+:::
+
+::: {.fragment .fade-up .fade-in}
+Bancas (21)
+:::
+
+::: {.fragment .fade-up .fade-in}
+Coorientação (1)
+:::
+
+
+:::{.fragment .fade-up .fade-in}
+Dashboars (9) 
+:::
+
+::: {.fragment .fade-up .fade-in}
+Aplicativo (1)
+:::
 
 ## {background-image="images/obrigado.jpg"}
 ::: {style="text-align: center; font-size: 80px; color: #ffffff"}
