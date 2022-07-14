@@ -9,23 +9,23 @@ format:
 ---
 
 # {background-image="images/fundo_Slides1.jpg"}
-::: {style="text-align: center; margin-top:0em"}
+::: {style="text-align: center;font-size: 35px; margin-top:-0.50em"}
 **Universidade Federal do Paraná**
 :::
-::: {style="text-align: center; margin-top: -0.5em"}
+::: {style="text-align: center;font-size: 35px; margin-top: -0.5em"}
 **Centro de Ciências Agrárias** 
 :::
-::: {style="text-align: center; font-size: 55px; color: #276709; margin-top: 2.5em"}
-**Resultados Obtidos (2017-2022)**
+::: {style="text-align: center; font-size: 30px; color: #276709; margin-top: 3em"}
+**APRENDIZAGEM DE MÁQUINA NO MELHORAMENTO GENÉTICO DA CANA ENERGIA E ANÁLISES EM BANCO DE DADOS DO PMGCA/UFPR/RIDESA**
 :::
-::: {style="text-align: left;font-size: 40px; margin-top: 3em" }
+::: {style="text-align: left;font-size: 27px; margin-top: 3em" }
 Pós-Doutorando: Dr. Amaro Afonso Campos de Azeredo
 :::
-::: {style="text-align: left;font-size: 40px; margin-top: -0.5em" }
+::: {style="text-align: left;font-size: 27px; margin-top: -0.5em" }
 Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
 :::
-::: {style="text-align: Center;font-size: 30px; margin-top: 3em" }
-**Maio de 2022**
+::: {style="text-align: Center;font-size: 27px; margin-top: 3em" }
+**Julho de 2022**
 :::
 
 # {background-image="images/fundo_invertido.jpg"}
