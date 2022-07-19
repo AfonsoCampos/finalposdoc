@@ -322,14 +322,10 @@ A Base foi Desenvolvida
 ![Fonte:tenor.com](images/pensando.gif){bottom="150" right="50" width="300" height=300"}
 :::
 
-
-
-
- 
 ## Applicativo {background-image="images/fundo_Slides1.jpg"}
 
 :::{.notes}
-Temos 37 clones destes 34 clones diferentes em cada bloc e 3 padroes repetidos em todos os blocos. 
+Temos 40 clones destes 37 clones diferentes em cada bloc e 3 padroes repetidos em todos os blocos. 
 
 :::
 
@@ -338,9 +334,10 @@ Temos 37 clones destes 34 clones diferentes em cada bloc e 3 padroes repetidos e
 
 - Gerarador de Planilhas de Campo
   - Experimento DBA  
-  - Genótipos 204 
+  - Genótipos (222) 
+  - Padrões (3)
   - Blocos (6)  
-  - Padrões por Bloco (3 + 34)
+  - Cada Bloco 37 Geno (SR) + 3 Pad (CR)
 
 :::
  
