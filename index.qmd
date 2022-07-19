@@ -176,6 +176,8 @@ Departamento de Fitotecnia (2018-2020)
 ![](images/A2.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 ![](images/A3.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
+![](images/fuzz_plot2.png){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="800" height="500"}
+
 ![](images/A4.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ::: {.fragment .highlight-green}
@@ -234,15 +236,15 @@ Coorientação
 ## Dashboards {background-image="images/fundo_Slides1.jpg"}
 
 ::: {.fragment .fade-up}
-Microsoft Power BI
+Microsoft Power BI (12 Gráficos)
 :::
-![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out   top="150" right=0 width=512" height="400"}
+![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out  top="150" right=0 width=512" height="400"}
 
 
 ::: {.fragment .fade-up}
-Gráficos (12)
+Amostra Vizualizações
 :::
-![](images/dashfeed.png){.absolute .fragment .fade-in-then-out   top="100" right=0 width=512" height="400"}
+![](images/powerbi-viz.jpg){.absolute .fragment .fade-in-then-out bottom="-2.5" right="50" width="960" height="480"}
 
 ::: {.fragment .fade-up}
 Dashboards (9) 
