@@ -9,26 +9,43 @@ format:
 ---
 
 # {background-image="images/fundo_Slides1.jpg"}
+:::{.notes}
+
+TELA CHEIA F11 !!!
+
+:::
+
 ::: {style="text-align: center;font-size: 35px; margin-top:-0.50em"}
 **Universidade Federal do Paraná**
 :::
 ::: {style="text-align: center;font-size: 35px; margin-top: -0.5em"}
 **Centro de Ciências Agrárias** 
 :::
-::: {style="text-align: center; font-size: 30px; color: #276709; margin-top: 3em"}
+::: {style="text-align: center; font-size: 30px; color: #276709; margin-top: 7em"}
 **APRENDIZAGEM DE MÁQUINA NO MELHORAMENTO GENÉTICO DA CANA ENERGIA E ANÁLISES EM BANCO DE DADOS DO PMGCA/UFPR/RIDESA**
 :::
-::: {style="text-align: left;font-size: 27px; margin-top: 3em" }
+::: {style="text-align: left;font-size: 27px; margin-top: 4em" }
 Pós-Doutorando: Dr. Amaro Afonso Campos de Azeredo
 :::
 ::: {style="text-align: left;font-size: 27px; margin-top: -0.5em" }
 Supervisor: Prof. Dr. Ricardo Augusto de Oliveira
 :::
-::: {style="text-align: Center;font-size: 27px; margin-top: 3em" }
+::: {style="text-align: Center;font-size: 27px; margin-top: 4em" }
 **Julho de 2022**
 :::
 
+
+
 # {background-image="images/fundo_invertido.jpg"}
+
+:::{.notes}
+
+Um pouco da minha Historia até os dias atuais e fazendo 
+um paralelo de como a cana-de-açúcar sempre esteve presente 
+diretamente ou indiretamente na minha vida. 
+
+:::
+
 ::: {style="text-align: center; font-size: 60px; color: #ffffff; margin-top: 0em"}
 **TRAGETÓRIA**
 :::
@@ -48,61 +65,77 @@ Campos dos Goytacazes, RJ (1986-2004)
 ![](images/fotoagro.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="420" height="500"}
 
 ::: {.fragment .fade-up}
-Primeira Usina Particular
+Engenho Central do Limão (1879)
 :::
 ![](images/usilimaoF.png){.absolute .fragment .fade-in-then-out  bottom="0" left="0" width="700" height="350"}
 
 ::: {.fragment .fade-up}
-Frederico de Menezes Veiga
+Prof. Frederico de Menezes Veiga 
 :::
 ![](images/frederico.png){.absolute .fragment  bottom="-2.5" right="0" width="600" height="500"}
 
 :::{.notes}
 
-Nos anos 1950, o pesquisador Frederico de Menezes Veiga desenvolveu uma nova variedade de cana-de-açúcar, a CB 4176. Mais produtiva que as tradicionais, a cana turbinou as lavouras paulistas. Garantiu colheita extra de mais de dez milhões de toneladas anuais, nas safras de 1958 a 1962.
+ - Foi o primeira usina de açúcar particular do Brasil, ou seja sem a concessão de benefícios oferecida pelo governo na política de engenhos centrais. 
+- Frederico de Menezes Veiga - Nos anos 1950 CB4176. Salto de produtividade na decada de 60.
+-  1975 e 2015 (30 anos) o Prêmio Frederico de Menezes destinado contribuição de destaque para o avanço da pesquisa agropecuária brasileira.
+ 
 
-A grande contribuição de Frederico de Menezes Veiga foi desenvolver pesquisas para o aumento dos índices de produtividade da cana-de-açúcar em diferentes regiões do País, que abriram o caminho para a ascensão do Brasil à posição de maior produtor mundial e grande exportador de açúcar. 
-
-Segundo o depoimento do Engenheiro Agrônomo Rui Torres Pinto, Chefe da Inspetoria do antigo Instituto do Açúcar e do Álcool, (IAA), nos Estados do Rio de Janeiro e Espírito Santo: "O Brasil deve a Frederico de Menezes Veiga, milhões de sacas de açúcar que anualmente exporta e que corresponde ao rendimento adicional em razão das variedades por ele criadas em relação às anteriormente cultivadas".
 :::
 
 ### Graduação 
 
 ::: {.fragment .fade-up}
-Areia, PB - CCA|UFPB (2006-2010)
+Agronomia (2006-2010)
 :::
-![](images/ccaufpb.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
+
+::: {.fragment .fade-up}
+Areia, PB - CCA|UFPB 
+:::
+
+![](images/ccaufpb.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="500"}
 
 ::: {.fragment .fade-up}
 Orientadores
 :::
-![](images/mailson_eliza.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="600" height="500"}
+
+![](images/mailson_eliza.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="550" height="500"}
 
 ::: {.fragment .fade-up}
-Laboratório de Biotecnologia Vegetal
+Laboratório de Biotecnologia Vegetal (4 anos)
 :::
+
 ![](images/tcc.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
 
 ::: {.fragment .fade-up}
-Monitoria Genética
+Monitoria Genética (2 anos)
 :::
+
 ![](images/livrogene.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
 
 ::: {.fragment .fade-up}
 Cana-de-açúcar
 :::
-![](images/anocana.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
+
+![](images/anocana.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" heiht="500"}
 
 ### Mestrado  
 
 ::: {.fragment .fade-up}
-Viçosa, MG - UFV (2011-2012)
+Genética e Melhoramento (2011-2012)
 :::
-![](images/ufvlago.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="650" height="300"}
+
+::: {.fragment .fade-up}
+Viçosa, MG - UFV 
+:::
+
+![](images/ufvlago.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="650" height="300"}
+
 
 ::: {.fragment .fade-up}
 Orientadores
 :::
+
 ![](images/orimes.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="450" height="300"}
 
 ::: {.fragment .fade-up}
@@ -113,7 +146,11 @@ Oratórios, MG - CECA
 ### Doutorado
 
 ::: {.fragment .fade-up}
-Viçosa, MG - UFV (2012-2017)
+Genética e Melhoramento (2012-2017)
+:::
+
+::: {.fragment .fade-up}
+Viçosa, MG - UFV 
 :::
 
 ::: {.fragment .fade-up}
@@ -124,12 +161,17 @@ Orientadores
 ::: {.fragment .fade-up}
 Paranavaí, PR - UFPR (2015)
 :::
+
 ![](images/pvai2015.jpg){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="400"}
 
 ### Pós-doutorado
 
 ::: {.fragment .fade-up}
-Curitiba, PR - UFPR (2017-2022)
+Agronomia - Produção Vegetal (2017-2022)
+:::
+
+::: {.fragment .fade-up}
+Curitiba, PR - UFPR 
 :::
 ![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="550" height="350"}
 
@@ -146,7 +188,14 @@ Paranavaí, PR (2017-2018)
 ::: {.fragment .fade-up}
 Departamento de Fitotecnia (2018-2020)
 :::
-![](images/fitotecnia.png){.absolute .fragment .fade-in-then-out  top=150 right=0 width="500" height="400"}
+
+![](images/fitotecnia.png){.absolute .fragment top=150 right=0 width="500" height="400"}
+
+:::{.fragment .fade-up}
+Remotamente (2020-2022)
+:::
+
+
 
 :::
 
@@ -165,6 +214,19 @@ Departamento de Fitotecnia (2018-2020)
 
 ### Artigos
 
+:::{.notes}
+  - 1 Avaliar o desempenho a nivel de familias de cana-de-nergia. Buscando possiveis padrões de cruzamentos mais favoráveis para o desenvolvimento de novas variedades. 
+  - 2 Avaliar a respostas de diferentes familias ao estress por frio no RS, buscando selecionar clones promissores dentro das melhores famílias. 
+  - 3 Desenvolvido um ìndice utilizando lógica difusa (fuzzy) para tres diferentes propósitos de cana: Convencional, Multiproposito e Alta biomassa. 
+  3.1- Desenvolvimento dos conjuntos, avalição de ganos de seleção e comportamento em diferentes taxas de seleção. 
+  - 4 Avaliamos a Resposta de Familias de cana de Açucar Ao carvao e Ferrugem Marrom... Em duas fases de Seleção ... maior numero de clones em familias de cana energia ... nas fases iniciais do que em convencionais. Todavia, no segundo ciclo foi possivel selecionar clones sem sintomas. 
+  - 5 Bru1 é um dos principais genes de resistência à ferrugem marrom. Portanto, o conhecimento da reação à ferrugem marrom nos genótipos mais utilizados como genitores nas hibridizações foi observada a frequencia em genitores utilizados em diferentes épocas no programa. 
+ 
+ - 6 Avaliamos a reação à ferrugem alaranjada em campo, o padrão de evolução da doença, o marcador molecular G1
+ 
+ 
+:::
+
 ::: {.fragment .highlight-green}
 **2017 (1)**
 :::
@@ -182,12 +244,14 @@ Departamento de Fitotecnia (2018-2020)
 
 ::: {.fragment .highlight-green}
 **2021 (1)**
+
 :::
 ![](images/A5.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ::: {.fragment .highlight-green}
 **2022 (1)**
 :::
+
 ![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ### Revisor 
@@ -201,9 +265,9 @@ Departamento de Fitotecnia (2018-2020)
 ::: {.fragment .fade-up}
 Matéria Jornal Cana
 :::
+
 ![](images/jornalcana.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
 ![](images/top dez.gif){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
-
 
 ::: {.fragment .fade-up}
 Site RIDESA|UFPR
@@ -242,7 +306,7 @@ Microsoft Power BI (12 Gráficos)
 
 
 ::: {.fragment .fade-up}
-Amostra Vizualizações
+Diversas Vizualizações
 :::
 ![](images/powerbi-viz.jpg){.absolute .fragment .fade-in-then-out bottom="-2.5" right="50" width="960" height="480"}
 
@@ -250,16 +314,38 @@ Amostra Vizualizações
 Dashboards (9) 
 :::
 
+::: {.fragment .fade-up}
+A Base foi Desenvolvida  
+:::
+
+:::{.absolute .fragment .fade-in-then-out }
+![Fonte:tenor.com](images/pensando.gif){bottom="150" right="50" width="300" height=300"}
+:::
+
+
+
+
+ 
 ## Applicativo {background-image="images/fundo_Slides1.jpg"}
 
-::: {.fragment .fade-up .fade-in-then-out}
-- Experimento DBA  
-- Genótipos (222) | (37)
-- Padrões por bloco (3)
-- Blocos (6)  
+:::{.notes}
+Temos 37 clones destes 34 clones diferentes em cada bloc e 3 padroes repetidos em todos os blocos. 
+
+:::
+
+
+:::{.incremental}
+
+- Gerarador de Planilhas de Campo
+  - Experimento DBA  
+  - Genótipos 204 
+  - Blocos (6)  
+  - Padrões por Bloco (3 + 34)
+
 :::
  
-![](images/rapp.gif){.absolute .fragment .fade-in-then-out   top="100" right=0 width=512" height="400"}
+
+![](images/rapp.gif){.absolute .fragment .fade-in-then-out   top="100" left="0" width=600" height="400"}
 
 ## Capacitação  {background-image="images/fundo_Slides1.jpg"}
 
@@ -290,30 +376,18 @@ dados |>
 
 ## Conclusões  {background-image="images/fundo_Slides1.jpg"}
 
-::: {.fragment .fade-up .fade-in}
-Artigos Publicados (6) 
+
+:::{.incremental}
+
+- Artigos Publicados (6) 
+- livros (2) 
+- Bancas (21)
+- Coorientação (1)
+- Dashboars (9) 
+- Aplicativo (1)
+
 :::
 
-::: {.fragment .fade-up .fade-in}
-livros (2) 
-:::
-
-::: {.fragment .fade-up .fade-in}
-Bancas (21)
-:::
-
-::: {.fragment .fade-up .fade-in}
-Coorientação (1)
-:::
-
-
-:::{.fragment .fade-up .fade-in}
-Dashboars (9) 
-:::
-
-::: {.fragment .fade-up .fade-in}
-Aplicativo (1)
-:::
 
 ## {background-image="images/obrigado.jpg"}
 ::: {style="text-align: center; font-size: 80px; color: #ffffff"}
