@@ -58,144 +58,77 @@ diretamente ou indiretamente na minha vida.
 ::: panel-tabset
 ### O Início
 
-::: {.fragment .fade-up}
-Campos dos Goytacazes, RJ (1986-2004)
-:::
-
-![](images/fotoagro.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="420" height="500"}
-
-::: {.fragment .fade-up}
-Engenho Central do Limão (1879)
-:::
-![](images/usilimaoF.png){.absolute .fragment .fade-in-then-out  bottom="0" left="0" width="700" height="350"}
-
-::: {.fragment .fade-up}
-Prof. Frederico de Menezes Veiga 
-:::
-![](images/frederico.png){.absolute .fragment  bottom="-2.5" right="0" width="600" height="500"}
-
 :::{.notes}
+- Familia da minha mae e do nordeste ... mudei de estado
+- Foi o primeira usina de açúcar particular do Brasil.
+- Frederico Nos anos 1950 CB4176; 1975 e 2015 (30 anos) o Prêmio pesquisa agropecuária brasileira.
+- Luiz Claudio -> Edelclaiton ...  
+:::
 
- - Foi o primeira usina de açúcar particular do Brasil, ou seja sem a concessão de benefícios oferecida pelo governo na política de engenhos centrais. 
-- Frederico de Menezes Veiga - Nos anos 1950 CB4176. Salto de produtividade na decada de 60.
--  1975 e 2015 (30 anos) o Prêmio Frederico de Menezes destinado contribuição de destaque para o avanço da pesquisa agropecuária brasileira.
- 
+:::{.incremental}
+- Campos dos Goytacazes, RJ (1986-2004)
+![](images/fotoagro.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="0" width="420" height="500"}
+- Engenho Central do Limão (1879)
+![](images/usilimaoF.png){.absolute .fragment .fade-in-then-out  bottom="0" left="0" width="700" height="350"}
+- Prof. Frederico de Menezes Veiga 
+![](images/frederico.png){.absolute .fragment  bottom="-2.5" right="0" width="600" height="500"}
 
 :::
 
 ### Graduação 
 
-::: {.fragment .fade-up}
-Agronomia (2006-2010)
+:::{.incremental}
+- Agronomia (2006-2010)
+- Areia, PB - CCA|UFPB 
+![](images/ccaufpb.png){.absolute .fragment .fade-in-then-out top="155" right=0 width="500" height="500"}
+- Orientadores
+![](images/mailson_eliza.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="550" height="500"}
+- Laboratório de Biotecnologia Vegetal (4 anos)
+![](images/tcc.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="400" height="500"}
+- Monitoria Genética (2 anos)
+![](images/livrogene.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="400" height="500"}
+- Cana-de-açúcar
+![](images/anocana.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="400" heiht="500"}
 :::
-
-::: {.fragment .fade-up}
-Areia, PB - CCA|UFPB 
-:::
-
-![](images/ccaufpb.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="500" height="500"}
-
-::: {.fragment .fade-up}
-Orientadores
-:::
-
-![](images/mailson_eliza.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="550" height="500"}
-
-::: {.fragment .fade-up}
-Laboratório de Biotecnologia Vegetal (4 anos)
-:::
-
-![](images/tcc.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
-
-::: {.fragment .fade-up}
-Monitoria Genética (2 anos)
-:::
-
-![](images/livrogene.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" height="500"}
-
-::: {.fragment .fade-up}
-Cana-de-açúcar
-:::
-
-![](images/anocana.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="400" heiht="500"}
 
 ### Mestrado  
 
-::: {.fragment .fade-up}
-Genética e Melhoramento (2011-2012)
-:::
-
-::: {.fragment .fade-up}
-Viçosa, MG - UFV 
-:::
-
+:::{.incremental}
+- Genética e Melhoramento (2011-2012)
+- Viçosa, MG - UFV 
 ![](images/ufvlago.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="650" height="300"}
+- Orientadores
+![](images/orimes.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="450" height="300"}
+- Oratórios, MG - CECA
+![](images/foto_mestrado.jpg){.absolute .fragment .fade-in-then-out   bottom="-2.5" right=0 width="600" height="400"}
 
-
-::: {.fragment .fade-up}
-Orientadores
 :::
-
-![](images/orimes.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="450" height="300"}
-
-::: {.fragment .fade-up}
-Oratórios, MG - CECA
-:::
-![](images/foto_mestrado.jpg){.absolute .fragment .fade-in-then-out  top="150" right=0 width="600" height="400"}
 
 ### Doutorado
 
-::: {.fragment .fade-up}
-Genética e Melhoramento (2012-2017)
-:::
+:::{.incremental }
+- Genética e Melhoramento (2012-2017)
+- Viçosa, MG - UFV 
+- Orientadores
+![](images/oridoutorado.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="450" height="500"}
+- Paranavaí, PR - UFPR (2015)
+![](images/pvai2015.jpg){.absolute .fragment .fade-in-then-out  top="155" right=0 width="500" height="400"}
 
-::: {.fragment .fade-up}
-Viçosa, MG - UFV 
 :::
-
-::: {.fragment .fade-up}
-Orientadores
-:::
-![](images/oridoutorado.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="450" height="500"}
-
-::: {.fragment .fade-up}
-Paranavaí, PR - UFPR (2015)
-:::
-
-![](images/pvai2015.jpg){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="400"}
 
 ### Pós-doutorado
 
-::: {.fragment .fade-up}
-Agronomia - Produção Vegetal (2017-2022)
+:::{.incremental}
+- Agronomia - Produção Vegetal (2017-2022)
+- Curitiba, PR - UFPR 
+![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  bottom="-2.5" right=0 width="550" height="350"}
+- Supervisor
+![](images/ricardo.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="400" height="175"}
+- Paranavaí, PR (2017-2018)
+- Departamento de Fitotecnia (2018-2020)
+![](images/fitotecnia.png){.absolute .fragment top=155 right=0 width="500" height="400"}
+- Remotamente (2020-2022)
 :::
-
-::: {.fragment .fade-up}
-Curitiba, PR - UFPR 
-:::
-![](images/agraufpr.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="550" height="350"}
-
-::: {.fragment .fade-up}
-Supervisor
-:::
-![](images/ricardo.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="400" height="175"}
-
-
-::: {.fragment .fade-up}
-Paranavaí, PR (2017-2018)
-:::
-
-::: {.fragment .fade-up}
-Departamento de Fitotecnia (2018-2020)
-:::
-
-![](images/fitotecnia.png){.absolute .fragment top=150 right=0 width="500" height="400"}
-
-:::{.fragment .fade-up}
-Remotamente (2020-2022)
-:::
-
-
 
 :::
 
@@ -215,25 +148,26 @@ Remotamente (2020-2022)
 ### Artigos
 
 :::{.notes}
-  - 1 Avaliar o desempenho a nivel de familias de cana-de-nergia. Buscando possiveis padrões de cruzamentos mais favoráveis para o desenvolvimento de novas variedades. 
-  - 2 Avaliar a respostas de diferentes familias ao estress por frio no RS, buscando selecionar clones promissores dentro das melhores famílias. 
-  - 3 Desenvolvido um ìndice utilizando lógica difusa (fuzzy) para tres diferentes propósitos de cana: Convencional, Multiproposito e Alta biomassa. 
-  3.1- Desenvolvimento dos conjuntos, avalição de ganos de seleção e comportamento em diferentes taxas de seleção. 
-  - 4 Avaliamos a Resposta de Familias de cana de Açucar Ao carvao e Ferrugem Marrom... Em duas fases de Seleção ... maior numero de clones em familias de cana energia ... nas fases iniciais do que em convencionais. Todavia, no segundo ciclo foi possivel selecionar clones sem sintomas. 
-  - 5 Bru1 é um dos principais genes de resistência à ferrugem marrom. Portanto, o conhecimento da reação à ferrugem marrom nos genótipos mais utilizados como genitores nas hibridizações foi observada a frequencia em genitores utilizados em diferentes épocas no programa. 
- 
- - 6 Avaliamos a reação à ferrugem alaranjada em campo, o padrão de evolução da doença, o marcador molecular G1
- 
+Trabalho conjunto com professores e Discentes no programa em diversas áreas 
+Variedades de cana-energia .. CO MP AB..
+- 1 desempenho familias de cana-de-nergia. Buscando  cruzamentos mais favoráveis . 
+- 2 familias cana (CO) ao estress por frio no RS- clones promissores nas melhores famílias. 
+- 3 Desenvolvido um ìndice utilizando lógica difusa (fuzzy)  Convencional, Multiproposito e Alta biomassa. 
+3.1 avalição de ganos de seleção e comportamento em diferentes taxas de seleção. 
+- 4  Resposta de Familias  Cana-energia ao carvao e Ferrugem Marrom... Em duas fases de Seleção 
+  muita donça nas progrenies na primeira fase
+- 5 Bru1 resistência à ferrugem marrom. avaliando os genitores + utilizados em diferentes decadas  
+6 ferrugem alaranjada marcador G1
  
 :::
 
 ::: {.fragment .highlight-green}
-**2017 (1)**
+- **2017 (1)**
 :::
 ![](images/A1.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ::: {.fragment .highlight-green}
-**2020 (3)**
+- **2020 (3)**
 :::
 ![](images/A2.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 ![](images/A3.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
@@ -243,51 +177,43 @@ Remotamente (2020-2022)
 ![](images/A4.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ::: {.fragment .highlight-green}
-**2021 (1)**
+- **2021 (1)**
 
 :::
 ![](images/A5.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ::: {.fragment .highlight-green}
-**2022 (1)**
+- **2022 (1)**
 :::
 
 ![](images/A6.jpg){.absolute .fragment .fade-in-then-out bottom="0" right="300" width="420" height="500"}
 
 ### Revisor 
-![](images/revisor.png){.absolute .fragment .fade-in-then-out top="150" left="50" width="250" height="300"}
+![](images/revisor.png){ top="150" left="50" width="250" height="300"}
 
 ### Livros
-![](images/livrospubli.png){.absolute  .fade-in-then-out  top="150" right=300 width="500" height="350"}
+![](images/livrospubli.png){fig-align="center"   width="600" height="450"}
 
 ### Divulgação Científica
 
-::: {.fragment .fade-up}
-Matéria Jornal Cana
+::: {.incremental}
+- Matéria Jornal Cana
+![](images/jornalcana.png){.absolute .fragment .fade-in-then-out  top="155" right=0 width="500" height="350"}
+![](images/top dez.gif){.absolute .fragment .fade-in-then-out  top="155" right=0 width="500" height="350"}
+- Site RIDESA|UFPR
+![](images/siteridesa.png){.absolute .fragment .fade-in-then-out   top="155" right=0 width="400" height="500"}
 :::
-
-![](images/jornalcana.png){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
-![](images/top dez.gif){.absolute .fragment .fade-in-then-out  top="150" right=0 width="500" height="350"}
-
-::: {.fragment .fade-up}
-Site RIDESA|UFPR
-:::
-![](images/siteridesa.png){.absolute .fragment .fade-in-then-out   top="150" right=0 width="400" height="500"}
 
 :::
 
 ## Participações {background-image="images/fundo_Slides1.jpg"} 
-::: {.fragment .fade-up}
-Bancas
-:::
-
-![](images/bancas.png){.absolute .fragment .fade-in-then-out  bottom="0" right="50" width="650" height=400"}
-
-::: {.fragment .fade-up}
-Coorientação 
-:::
+:::{.incremental}
+- Bancas
+![](images/bancas.png){.absolute .fragment .fade-in-then-out  bottom="0" right="150" width="650" height=400"}
+- Coorientação 
 ![](images/guilherme.png){.absolute .fragment .fade-in-then-out  top="150" right="50" width="400" height=250"}
 
+:::
 
 # {background-image="images/fundo_invertido.jpg"}
 ::: {style="text-align: center; font-size: 60px; color: #ffffff; margin-top: 0em"}
@@ -299,28 +225,22 @@ Coorientação
 
 ## Dashboards {background-image="images/fundo_Slides1.jpg"}
 
-::: {.fragment .fade-up}
-Microsoft Power BI (12 Gráficos)
-:::
-![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out  top="150" right=0 width=512" height="400"}
+::: {.incremental }
+- Microsoft Power BI 
+- Censo Varietal (12 Gráficos)
+![](images/vidpbi.gif){.absolute .fragment .fade-in-then-out  top="110" left="-2" width=610" height="450"}
+- Dashboards (9) 
+- Diversas Vizualizações
+![](images/powerbi-viz.jpg){.absolute .fragment .fade-in-then-out  top="110" left="-2" width=610" height="450"}
+- A Base foi Desenvolvida  
 
-
-::: {.fragment .fade-up}
-Diversas Vizualizações
-:::
-![](images/powerbi-viz.jpg){.absolute .fragment .fade-in-then-out bottom="-2.5" right="50" width="960" height="480"}
-
-::: {.fragment .fade-up}
-Dashboards (9) 
+:::{.absolute .fragment top=120 right=50 }
+![Fonte: tenor.com](images/pensando.gif){width="350" height="400"}
 :::
 
-::: {.fragment .fade-up}
-A Base foi Desenvolvida  
 :::
 
-:::{.absolute .fragment .fade-in-then-out }
-![Fonte:tenor.com](images/pensando.gif){bottom="150" right="50" width="300" height=300"}
-:::
+
 
 ## Applicativo {background-image="images/fundo_Slides1.jpg"}
 
@@ -331,8 +251,8 @@ Temos 40 clones destes 37 clones diferentes em cada bloc e 3 padroes repetidos e
 
 
 :::{.incremental}
-
-- Gerarador de Planilhas de Campo
+- Power Bi × Shiny (R)
+- Gerador de Planilhas de Campo
   - Experimento DBA  
   - Genótipos (222) 
   - Padrões (3)
@@ -350,6 +270,12 @@ Temos 40 clones destes 37 clones diferentes em cada bloc e 3 padroes repetidos e
 
 ## Cronograma {background-image="images/fundo_Slides1.jpg"}
 
+:::{.notes}
+
+1- Revisão de literatura, estudo, desenvolvimento de protocolos de análise; 2- Análise de dados; 3- Coleta dos ensaios; 4 -Interpretação dos resultados, escrita e submissão artigos; 5 - Apresentação dos resultados parciais obtidos em seminários e/ou relatórios parciais; 6 - Apresentação dos resultados obtidos no estágio de pós-doutoramento em sessão pública.
+
+:::
+
 ```{r}
 #| echo: false
 
@@ -364,7 +290,7 @@ dados |>
   hc_vistime( 
            col.event = "Position", 
            col.group = "Name", 
-           title = "Cronograma de Atividades Desenvolvidas") |>  
+           title = "Cronograma das Atividades Desenvolvidas") |>  
   hc_size(width = 1000, height = 600) 
 
   
@@ -377,7 +303,7 @@ dados |>
 :::{.incremental}
 
 - Artigos Publicados (6) 
-- livros (2) 
+- Livros (2) 
 - Bancas (21)
 - Coorientação (1)
 - Dashboars (9) 
