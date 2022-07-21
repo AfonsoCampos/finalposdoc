@@ -230,7 +230,8 @@ Variedades de cana-energia .. CO (TPH) MP (TPH + TFH) AB (TFH) equacionar.
 :::{.notes}
 Decadas de dados Armazenados provenientes de diferentes avaliacoes das varias fases do programa de 
 melhormanto...alem disso novos dados são gerados em um curto periodo de tempo ... 
-Acessar isso manualmente ... é um processo laborioso ...  como facilitar a vida da equipe
+Acessar isso manualmente ... é um processo laborioso ...  como facilitar a vida da equipe..
+podendo ser acessado facilmente em qualquer disposivo de forma online publica ou privada. 
 
 :::
 
@@ -275,6 +276,8 @@ Bonus.. meu ultimo filho do pós doutorado...
 Maioria dos dados da rede advem de experimentos istalados... croqui vira uma planilha ... 
 Uma das maravilhas de se programar e poder facilitar as vezes tb melhorar uma tarefa que é 
 repetitiva... 
+O Banco pode ter 1000 linhas de genotipos e cruzamento ele so vai buscar o que foi colocado a campo.
+se tiver erro de prenchimento em qualquer um dos lados ele nao vai assocciar ... coluna de pais em braco..
 
 Em um primeiro momento vc tem mais trabalho de escrever o codigo ...depois o esforco e recompensado. 
 :::
@@ -349,16 +352,16 @@ dados |>
 
 ## {background-image="images/obrigado.jpg"}
 :::{.notes}
-- UFPR (3 CASA)
+- UFPR (3 CASA)|FUNPAR
 - Equipe RIDESA/Paranavai
 - Lucimara- Chico
-- Ao Professores da Universidade (ricardo, bruno, edelclaiton,  zambom )
+- Ao Professores da Universidade (ricardo, bruno, bespa, edelclaiton,  zambom, lucimeris )
 - Pelos Conselhos e confianca... 
 - Minha família especialmente a minha mae e a minha namorada Fernada (10)... 
-
+- discentes emmanuel, tales,Adilson, ju... 
 :::
 
-::: {style="text-align: center; font-size: 80px; color: #ffffff"}
+::: {style="text-align:  center;  font-size: 80px; color: #ffffff"}
 **Obrigado !**
 :::
 
